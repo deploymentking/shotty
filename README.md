@@ -1,0 +1,2 @@
+# shotty
+Python tutorial project
